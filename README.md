@@ -1,2 +1,3 @@
 # random-reviews
-Vanilla JS basic project
+
+Basic Vanilla JS Project
